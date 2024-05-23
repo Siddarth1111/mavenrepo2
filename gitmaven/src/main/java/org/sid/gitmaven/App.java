@@ -1,7 +1,7 @@
 package org.sid.gitmaven;
 
 /**
- * Hello world!
+ * Hello world from Sid!
  *
  */
 public class App 
